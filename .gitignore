@@ -1,3 +1,8 @@
-History\*
-__Previews\*
+History/*
+__Previews/*
 *.LOG
+MiniSat_MCU_stm32.PcbDoc.htm
+CPU_STM32F4.PrjPcbStructure
+CPU_STM32F4.PrjPcb
+CPU_STM32F4.PrjPcbStructure
+CPU_STM32F4.PrjPcb
